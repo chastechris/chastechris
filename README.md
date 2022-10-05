@@ -10,6 +10,8 @@
 <img src="https://github.com/chastechris/assets/blob/main/education1.png">
 <img src="https://github.com/chastechris/assets/blob/main/skills.png">
 
+<img src="https://github.com/chastechris/assets/blob/main/projects1.png">
+<img src="https://github.com/chastechris/assets/blob/main/prjects2.png">
 
 
 
